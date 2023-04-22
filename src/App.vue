@@ -3,6 +3,9 @@
     <!-- 路由出口 -->
     <router-view />
     <h1>头条</h1>
+    <div>
+      <i class="toutiao toutiao-shanchu"></i>
+    </div>
   </div>
 </template>
 
